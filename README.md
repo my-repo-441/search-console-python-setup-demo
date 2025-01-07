@@ -9,7 +9,7 @@
 
 このプロジェクトの詳細な背景や使用例については、以下のブログ記事をご覧ください：
 
-- [Pythonで始めるGoogle Search Console API：セットアップから動作確認まで完全解説](https://www.kuretom.com/google-search-console-api-python-guide/)
+- [Pythonで始めるGoogle Search Console API：セットアップから動作確認まで解説](https://www.kuretom.com/google-search-console-api-python-guide/)
 
 
 ## 主な機能
